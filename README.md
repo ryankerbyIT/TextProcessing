@@ -67,7 +67,7 @@ If you would like to contribute to this project, please follow these steps:
 1. Fork the repository on GitHub.
 2. Clone your fork to your local machine:
     ```bash
-    git clone https://github.com/your-username/TextProcessing.git
+    git clone https://github.com/ryankerbyIT/TextProcessing.git
     ```
 3. Create a new branch for your feature or bugfix:
     ```bash
